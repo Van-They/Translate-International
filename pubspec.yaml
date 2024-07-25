@@ -1,5 +1,5 @@
 name: translate_intl
-description: Flutter package that provides an easy way to handle translations and localization in your app. It simplifies the process of managing different languages and displaying localized content.
+description: easy way to handle translations and localization in your app.
 version: 0.0.1
 homepage: https://github.com/Van-They/Translate-International.git
 repository: https://github.com/Van-They/Translate-International.git

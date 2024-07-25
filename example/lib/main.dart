@@ -35,7 +35,8 @@ class MyApp extends StatelessWidget {
       ],
 
       /// The initial locale of the application.
-      locale: const Locale('km'), // Set Khmer as the initial locale
+      locale: const Locale('km'),
+      // Set Khmer as the initial locale
 
       /// The list of delegates that handle the localization of the application.
       localizationsDelegates: [
